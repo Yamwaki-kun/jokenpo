@@ -1,5 +1,5 @@
 # jokenpo
 
-Projeto para fíns didáticos
+Projeto para fins didáticos
 
 ## Getting Started
