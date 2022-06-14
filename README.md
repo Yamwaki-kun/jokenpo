@@ -1,5 +1,5 @@
 # jokenpo
 
-Projeto de Jogo Jokenpo feito em flutter
+Projeto para fíns didáticos
 
 ## Getting Started
